@@ -1,0 +1,22 @@
+ابين,YE12,Abyan
+الضالع,YE30,Ad Dali
+عدن,YE24,Aden
+البيضاء,YE14,Al Bayda
+الحديده,YE18,Al Hodeidah
+الجوف,YE16,Al Jawf
+المهره,YE28,Al Maharah
+المحويت,YE27,Al Mahwit
+عمران,YE29,Amran
+ذمار,YE20,Dhamar
+حضرموت,YE19,Hadramawt
+حجه,YE17,Hajjah
+اب,YE11,Ibb
+لحج,YE25,Lahj
+مارب,YE26,Marib
+ريمه,YE31,Raymah
+صعده,YE22,Sadah
+صنعاء,YE23,Sanaa
+امانة العاصمه,YE13,Sanaa City
+شبوه,YE21,Shabwah
+سقطرى,YE32,Socotra
+تعز,YE15,Taiz
